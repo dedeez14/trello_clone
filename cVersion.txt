@@ -4,5 +4,3 @@ MySQL
 1. open cmd
 2. ubah direktori ke C:\Program Files\MySQL\MySQL Server 8.0\bin
 3. run -> mysql -V;
-
-C:\
